@@ -1,7 +1,7 @@
 - 👋 Olá, Eu sou @EngMarceloPaulo
 - 👀 Sou interessado em engenharia, microcontroladores, CLPs, IOT e dados
-- 🌱 Estou estudando Engenharia da Computação, desenvolvimento em Arduino e Engenharia de Software
-- 💞️ Estou procurando colaborar em desenvolvimento  de software, Engenharia de Dados e Automação Residencial, Predial e Industrial
+- 🌱 Estou estudando Engenharia da Computação, desenvolvimento em microcontroladores Arduino e Engenharia de Dados
+- 💞️ Estou procurando colaborar em desenvolvimento de software, Engenharia de Dados e Automação Residencial, Predial e Industrial
 - 📫 Você me encontra em linkedin.com/in/marcelopaulo
 
 <!---
